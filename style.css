@@ -1,0 +1,27 @@
+.custom{
+    background-color: black;
+    color: whitesmoke;
+    height: auto;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.btn-warning {
+    height: auto;
+    width: 40px;
+}
+
+.main{
+    width: 280px;
+    
+}
+
+#screen{
+    height: 50px;
+}
+
+container{
+    background-color: antiquewhite;
+    padding: 20px;
+}
